@@ -19,7 +19,7 @@
 ### Ejemplo 
 En caso de duda, antes de instalar Shinonome, pruebe el bot aquí
 
-<a href="https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU">
+<a href="https://chat.whatsapp.com/KMkV1lwp2byJAgqZxQKzUR">
   <img src="https://img.shields.io/badge/Daxmax1230-a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
