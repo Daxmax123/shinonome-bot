@@ -2,24 +2,24 @@ import fetch from 'node-fetch'
 
 var handler = async (m, { text,  usedPrefix, command }) => {
 
-if (!text) return conn.reply(m.chat, `🎌 *Ingrese una petición*\n\nEjemplo, !bard Conoces A Bill Gates?`, m, fake, )
+if (!text) throw `INGRESE UN TEXTO!`
 
 try {
 
-conn.sendPresenceUpdate('composing', m.chat)
+await m.reply(wait)
 var apii = await fetch(`https://aemt.me/bard?text=${text}`)
 var res = await apii.json()
 await m.reply(res.result)
 
 } catch (error) {
 console.error(error)
-return conn.reply(m.chat, `*🚩 Ocurrió un fallo*`, m, fake, )
+throw 'OCURRIÓ UN ERROR'
 }
 
 }
 handler.command = ['bard']
 handler.help = ['bard']
-handler.tags = ['ai']
+handler.tags = ['herramientas']
 
 handler.premium = false
 
