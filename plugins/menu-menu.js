@@ -420,6 +420,7 @@ ${readMore}
 ┊⋆⁺˖⸙̭❛❧ _${usedPrefix}covid *<pais>*_
 ┊⋆⁺˖⸙̭❛❧ _${usedPrefix}horario_
 ┊⋆⁺˖⸙̭❛❧ _${usedPrefix}dropmail_
+┊⋆⁺˖⸙̭❛❧ _${usedPrefix}bard_
 ╰⌦≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈‧₊˚✧
 
 ╭꒱≡≡≡≡≡╡✦✧✦✧✦✧╞≡≡≡≡♡
