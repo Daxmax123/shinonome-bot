@@ -11,12 +11,12 @@ global.botnumber = ""
 
 global.owner = [
   ['994406078472', '👑 Shino - Creador 👑', true],
-  ['51944732300', '💫 Shino - Collaborator 1 💫', true],
+  ['51915916510', '💫 Shino - Collaborator 1 💫', true],
   ['51901696007', '💫 Shino - Collaborator 2 💫', true],
   ['51984437427', '💫 Shino - Collaborator 3 💫', true],
   ['51921911036', '💫 Shino - Collaborator 4 💫', true],
   ['51953218154', '💫 Shino - Collaborator 5 💫', true],
-  ['13852322280', '💫 Shino - Collaborator 5 💫', true]
+  ['59177601773', '💫 Shino - Collaborator 5 💫', true]
 ];
 
 global.suittag = ['0'];
