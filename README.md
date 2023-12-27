@@ -1,4 +1,4 @@
-## Shinonome By Daxmax123 ✨
+## Shinonome By Yuki ✨
 
 <p align="center">
 <img src="https://github.com/Daxmax123/shinonome-bot/blob/master/Menu.png" alt="Shinonome-MD" width="900"/>
