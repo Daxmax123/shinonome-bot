@@ -39,7 +39,7 @@ En caso de duda, antes de instalar Shinonome, pruebe el bot aquí
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Daxmax123/shinonomr/master/curiosity.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Daxmax123/shinonome-bot/master/shinonome.sh | bash
 ```
 
 #### ACTIVAR EN TERMUX
