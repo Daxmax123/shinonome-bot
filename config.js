@@ -10,8 +10,8 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['994406078472', '👑 Shino - Creador 👑', true],
-  ['51915916510', '💫 Shino - Collaborator 1 💫', true],
+  ['51915916510', '👑 Shino - Creador 👑', true],
+  ['994406078472', '💫 Shino - Collaborator 1 💫', true],
   ['51901696007', '💫 Shino - Collaborator 2 💫', true],
   ['51984437427', '💫 Shino - Collaborator 3 💫', true],
   ['51921911036', '💫 Shino - Collaborator 4 💫', true],
@@ -58,7 +58,7 @@ global.mysticbot = 'https://github.com/Daxmax123/shinonome-bot';
 global.waitt = '*[❗] ★彡( ₵₳Ɽ₲₳₦ĐØ, Ɇ₴₱ɆⱤɆ Ʉ₦ ₥Ø₥Ɇ₦₮Ø... )彡★*';
 global.waittt = '*[❗] ★彡( ₵₳Ɽ₲₳₦ĐØ, Ɇ₴₱ɆⱤɆ Ʉ₦ ₥Ø₥Ɇ₦₮Ø... )彡★*';
 global.waitttt = '*[❗] ★彡( ₵₳Ɽ₲₳₦ĐØ, Ɇ₴₱ɆⱤɆ Ʉ₦ ₥Ø₥Ɇ₦₮Ø... )彡★*';
-global.nomorown = '994406078472';
+global.nomorown = '51915916510';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
